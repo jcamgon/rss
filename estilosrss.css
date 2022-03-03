@@ -1,0 +1,55 @@
+	body {
+		background-color: gray;
+	}
+
+	p {
+		text-align: justify;
+		font-size: 1.2em;
+	}
+
+	h1 {
+		text-align: center;
+	}
+
+	#contenedor {
+		width: 700px;
+		height: 95%;
+		margin: 0 auto; 
+	}
+	
+	#cabecera {
+		height: 20%;
+		width: 100%;
+		margin-bottom: 20px;
+		background-color: skyblue;
+		font-size: 50px;
+		text-align: center;
+
+	}
+	
+	#feed {
+		background-color: white;
+		float: left; 
+		width: 500px; 
+		height: 60%;
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-bottom: 20px;
+		padding: 10px;
+		text-align: justify; 
+	}
+	
+	#pie {
+		clear: both;
+		height: 20%;
+		width: 100%;
+		background-color: skyblue;
+		font-size: 50px;
+		text-align: center;
+	}
+
+	img {
+		margin-left: 30px;
+		width: 434px;
+		height: 189px;
+	}
