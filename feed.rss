@@ -2,12 +2,12 @@
 <rss version="2.0">
  <channel>
     <title>Noticia 1</title>
-    <link></link>
+    <link>https://jcamgon.github.io/rss/noticia1.html</link>
 	<description>Esta es la noticia de pruebas 1.</description>
 
     <item>
         <title>Noticia 2</title>
-        <link></link>
+        <link>https://jcamgon.github.io/rss/noticia2.html</link>
 		<description>Esta es la noticia de pruebas 2.</description>
     </item>
 
